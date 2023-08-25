@@ -109,6 +109,7 @@ img{
 img{
     width:100%;
     height:100%;
+    transistion: transform 0.5s;
 }
 .stack{
     width:75%;
